@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="1" failures="0" hostname="LT105372" id="0" name="Q4Test" package="tests" skipped="0" tests="1" time="492.397" timestamp="2016-10-15T14:48:19">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="os.name" value="Windows 8.1" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_77\jre\classes" />
+
+          <property name="user.country.format" value="PT" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4" />
+
+          <property name="java.runtime.version" value="1.8.0_77-b03" />
+
+          <property name="user.name" value="NB21139" />
+
+          <property name="user.language.format" value="pt" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin" />
+
+          <property name="ant.project.default-target" value="all" />
+
+          <property name="ant.project.name" value="otomoto" />
+
+          <property name="java.version" value="1.8.0_77" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="resources.dir" value="resources" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="ant.file.type.otomoto" value="file" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="GB" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_77\jre" />
+
+          <property name="dist.dir" value="bin" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="D:\SourceCode\otomoto\Q5Q4Build.xml" />
+
+          <property name="os.version" value="6.3" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.77-b03" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="sun.stdout.encoding" value="cp850" />
+
+          <property name="user.script" value="" />
+
+          <property name="user.home" value="C:\Users\nb21139" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;%JAVA_HOME%\bin;C:\ProgramData\Oracle\Java\javapath;D:\chromeDriver\chromedriver_win32;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\bin;C:\Program Files (x86)\Mozilla Firefox;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;D:\IEdriver\;D:\WorkSpaceJava\OneAgentWeb\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft Team Foundation Server 2012 Power Tools\;C:\Program Files (x86)\Microsoft Team Foundation Server 2012 Power Tools\Best Practices Analyzer\;C:\Program Files (x86)\nodejs\;C:\Users\nb21139\AppData\Roaming\npm;." />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.file.otomoto" value="D:\SourceCode\otomoto\Q5Q4Build.xml" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.Q4Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\SourceCode\otomoto\junit\TEST-tests.Q4Test.xml crashfile=D:\SourceCode\otomoto\junitvmwatcher7451773808176250779.properties propsfile=D:\SourceCode\otomoto\junit4221146652405192546.properties" />
+
+          <property name="java.class.path" value="D:\SourceCode\otomoto\bin;D:\SourceCode\otomoto\resources;D:\SourceCode\otomoto\resources\junit-4.12.jar;D:\SourceCode\otomoto\resources\hamcrest-core-1.3.jar;D:\SourceCode\otomoto\resources\commons-codec-1.10.jar;D:\SourceCode\otomoto\resources\commons-exec-1.3.jar;D:\SourceCode\otomoto\resources\commons-io-2.4.jar;D:\SourceCode\otomoto\resources\commons-logging-1.2.jar;D:\SourceCode\otomoto\resources\fluent-hc-4.5.2.jar;D:\SourceCode\otomoto\resources\gson-2.3.1.jar;D:\SourceCode\otomoto\resources\guava-19.0.jar;D:\SourceCode\otomoto\resources\httpclient-4.5.2.jar;D:\SourceCode\otomoto\resources\httpclient-cache-4.5.2.jar;D:\SourceCode\otomoto\resources\httpclient-win-4.5.2.jar;D:\SourceCode\otomoto\resources\httpcore-4.4.4.jar;D:\SourceCode\otomoto\resources\httpmime-4.5.2.jar;D:\SourceCode\otomoto\resources\jna-4.1.0.jar;D:\SourceCode\otomoto\resources\jna-platform-4.1.0.jar;D:\SourceCode\otomoto\resources\selenium-java-2.53.0.jar;D:\SourceCode\otomoto\resources\selenium-java-2.53.0-srcs.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\junit-4.12.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant-launcher.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant-junit.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="java.io.tmpdir" value="C:\Users\nb21139\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="D:\SourceCode\otomoto" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="basedir" value="D:\SourceCode\otomoto" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant.jar" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="sun.stderr.encoding" value="cp850" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="ant.project.invoked-targets" value="all" />
+
+      </properties>
+
+      <testcase classname="tests.Q4Test" name="testQ4" time="492.31">
+          <error message="api.imgur.com" type="java.net.UnknownHostException">java.net.UnknownHostException: api.imgur.com
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1890)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1885)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1884)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1457)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+	at general.classes.HttpOps.checkConnectionResponse(Unknown Source)
+	at tests.Q4Test.testQ4(Unknown Source)
+Caused by: java.net.UnknownHostException: api.imgur.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.protocol.https.HttpsClient.&lt;init&gt;(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:307)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:298)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:281)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.setNewClient(AbstractDelegateHttpsURLConnection.java:96)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.setNewClient(AbstractDelegateHttpsURLConnection.java:80)
+	at sun.net.www.protocol.http.HttpURLConnection.writeRequests(HttpURLConnection.java:672)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1534)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at general.classes.HttpOps.ReadBuffer(Unknown Source)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[Response Message -> {"data":{"id":"rtkPEqf","title":null,"description":null,"datetime":1476542920,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"XSDbSk2o6Krj571","name":"","link":"http:\/\/i.imgur.com\/rtkPEqf.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//rtkPEqf
+Get Response -> 200
+Response Message -> {"data":{"id":"2WIyHEf","title":null,"description":null,"datetime":1476542973,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"AL8eNzfu5JsBaUr","name":"","link":"http:\/\/i.imgur.com\/2WIyHEf.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//2WIyHEf
+Get Response -> 200
+Response Message -> {"data":{"id":"H7ZcOQs","title":null,"description":null,"datetime":1476543027,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"i16vgX3NCAaE2Pl","name":"","link":"http:\/\/i.imgur.com\/H7ZcOQs.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//H7ZcOQs
+Get Response -> 200
+Response Message -> {"data":{"id":"yPBvKZH","title":null,"description":null,"datetime":1476543080,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"yNgXuG6L5R2BRrl","name":"","link":"http:\/\/i.imgur.com\/yPBvKZH.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//yPBvKZH
+Get Response -> 200
+Response Message -> {"data":{"id":"javn5Kf","title":null,"description":null,"datetime":1476543133,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"PK4l2fXfSzPIRUd","name":"","link":"http:\/\/i.imgur.com\/javn5Kf.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//javn5Kf
+Get Response -> 200
+Response Message -> {"data":{"id":"YPYaAv2","title":null,"description":null,"datetime":1476543187,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"YcoV13oZhTeEHWL","name":"","link":"http:\/\/i.imgur.com\/YPYaAv2.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//YPYaAv2
+Get Response -> 200
+Response Message -> {"data":{"id":"wd0lyPy","title":null,"description":null,"datetime":1476543241,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"vTOVihEJnsKU590","name":"","link":"http:\/\/i.imgur.com\/wd0lyPy.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//wd0lyPy
+Get Response -> 200
+Response Message -> {"data":{"id":"e0rP65H","title":null,"description":null,"datetime":1476543294,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"3ZYk2Ucwok3SNV9","name":"","link":"http:\/\/i.imgur.com\/e0rP65H.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//e0rP65H
+Get Response -> 200
+Response Message -> {"data":{"id":"EfnHsBG","title":null,"description":null,"datetime":1476543347,"type":"image\/jpeg","animated":false,"width":5983,"height":2164,"size":1045119,"views":0,"bandwidth":0,"vote":null,"favorite":false,"nsfw":null,"section":null,"account_url":null,"account_id":0,"is_ad":false,"in_gallery":false,"deletehash":"LN08Q5mRPgptxz1","name":"","link":"http:\/\/i.imgur.com\/EfnHsBG.jpg"},"success":true,"status":200}
+Code -> 200
+Get Request -> https://api.imgur.com/3/image//EfnHsBG
+Get Response -> 200
+An exception was thrown!
+Response Message -> 
+An exception was thrown -> java.lang.ArrayIndexOutOfBoundsException: 1
+]]></system-out>
+
+      <system-err />
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="LT105372" id="1" name="Q5Test" package="tests" skipped="0" tests="1" time="43.487" timestamp="2016-10-15T14:47:35">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="os.name" value="Windows 8.1" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_77\jre\classes" />
+
+          <property name="user.country.format" value="PT" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4" />
+
+          <property name="java.runtime.version" value="1.8.0_77-b03" />
+
+          <property name="user.name" value="NB21139" />
+
+          <property name="user.language.format" value="pt" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin" />
+
+          <property name="ant.project.default-target" value="all" />
+
+          <property name="ant.project.name" value="otomoto" />
+
+          <property name="java.version" value="1.8.0_77" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="resources.dir" value="resources" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="ant.file.type.otomoto" value="file" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="GB" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_77\jre" />
+
+          <property name="dist.dir" value="bin" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="D:\SourceCode\otomoto\Q5Q4Build.xml" />
+
+          <property name="os.version" value="6.3" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.77-b03" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="sun.stdout.encoding" value="cp850" />
+
+          <property name="user.script" value="" />
+
+          <property name="user.home" value="C:\Users\nb21139" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;%JAVA_HOME%\bin;C:\ProgramData\Oracle\Java\javapath;D:\chromeDriver\chromedriver_win32;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\bin;C:\Program Files (x86)\Mozilla Firefox;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;D:\IEdriver\;D:\WorkSpaceJava\OneAgentWeb\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft Team Foundation Server 2012 Power Tools\;C:\Program Files (x86)\Microsoft Team Foundation Server 2012 Power Tools\Best Practices Analyzer\;C:\Program Files (x86)\nodejs\;C:\Users\nb21139\AppData\Roaming\npm;." />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.file.otomoto" value="D:\SourceCode\otomoto\Q5Q4Build.xml" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.Q5Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\SourceCode\otomoto\junit\TEST-tests.Q5Test.xml crashfile=D:\SourceCode\otomoto\junitvmwatcher8010810582133372910.properties propsfile=D:\SourceCode\otomoto\junit7708889212962372556.properties" />
+
+          <property name="java.class.path" value="D:\SourceCode\otomoto\bin;D:\SourceCode\otomoto\resources;D:\SourceCode\otomoto\resources\junit-4.12.jar;D:\SourceCode\otomoto\resources\hamcrest-core-1.3.jar;D:\SourceCode\otomoto\resources\commons-codec-1.10.jar;D:\SourceCode\otomoto\resources\commons-exec-1.3.jar;D:\SourceCode\otomoto\resources\commons-io-2.4.jar;D:\SourceCode\otomoto\resources\commons-logging-1.2.jar;D:\SourceCode\otomoto\resources\fluent-hc-4.5.2.jar;D:\SourceCode\otomoto\resources\gson-2.3.1.jar;D:\SourceCode\otomoto\resources\guava-19.0.jar;D:\SourceCode\otomoto\resources\httpclient-4.5.2.jar;D:\SourceCode\otomoto\resources\httpclient-cache-4.5.2.jar;D:\SourceCode\otomoto\resources\httpclient-win-4.5.2.jar;D:\SourceCode\otomoto\resources\httpcore-4.4.4.jar;D:\SourceCode\otomoto\resources\httpmime-4.5.2.jar;D:\SourceCode\otomoto\resources\jna-4.1.0.jar;D:\SourceCode\otomoto\resources\jna-platform-4.1.0.jar;D:\SourceCode\otomoto\resources\selenium-java-2.53.0.jar;D:\SourceCode\otomoto\resources\selenium-java-2.53.0-srcs.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\junit-4.12.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant-launcher.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant-junit.jar;D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="java.io.tmpdir" value="C:\Users\nb21139\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="D:\SourceCode\otomoto" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="basedir" value="D:\SourceCode\otomoto" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="D:\Ant\apache-ant-1.9.4-bin\apache-ant-1.9.4\lib\ant.jar" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="sun.stderr.encoding" value="cp850" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="ant.project.invoked-targets" value="all" />
+
+      </properties>
+
+      <testcase classname="tests.Q5Test" name="testQ5" time="43.438">
+          <failure message="Number of rooms is not correct, it must be 2 and we got 5" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Number of rooms is not correct, it must be 2 and we got 5
+	at tests.Q5Test.testQ5(Unknown Source)
+</failure>
+
+      </testcase>
+
+      <system-out />
+
+      <system-err><![CDATA[Starting ChromeDriver 2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4) on port 45049
+Only local connections are allowed.
+]]></system-err>
+
+  </testsuite>
+</testsuites>
